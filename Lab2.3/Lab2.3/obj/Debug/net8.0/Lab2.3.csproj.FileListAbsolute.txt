@@ -1,0 +1,14 @@
+D:\Учеба\2 семестр\КПЗ\Лаб 2\Lab2.3\Lab2.3\bin\Debug\net8.0\Lab2.3.exe
+D:\Учеба\2 семестр\КПЗ\Лаб 2\Lab2.3\Lab2.3\bin\Debug\net8.0\Lab2.3.deps.json
+D:\Учеба\2 семестр\КПЗ\Лаб 2\Lab2.3\Lab2.3\bin\Debug\net8.0\Lab2.3.runtimeconfig.json
+D:\Учеба\2 семестр\КПЗ\Лаб 2\Lab2.3\Lab2.3\bin\Debug\net8.0\Lab2.3.dll
+D:\Учеба\2 семестр\КПЗ\Лаб 2\Lab2.3\Lab2.3\bin\Debug\net8.0\Lab2.3.pdb
+D:\Учеба\2 семестр\КПЗ\Лаб 2\Lab2.3\Lab2.3\obj\Debug\net8.0\Lab2.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\2 семестр\КПЗ\Лаб 2\Lab2.3\Lab2.3\obj\Debug\net8.0\Lab2.3.AssemblyInfoInputs.cache
+D:\Учеба\2 семестр\КПЗ\Лаб 2\Lab2.3\Lab2.3\obj\Debug\net8.0\Lab2.3.AssemblyInfo.cs
+D:\Учеба\2 семестр\КПЗ\Лаб 2\Lab2.3\Lab2.3\obj\Debug\net8.0\Lab2.3.csproj.CoreCompileInputs.cache
+D:\Учеба\2 семестр\КПЗ\Лаб 2\Lab2.3\Lab2.3\obj\Debug\net8.0\Lab2.3.dll
+D:\Учеба\2 семестр\КПЗ\Лаб 2\Lab2.3\Lab2.3\obj\Debug\net8.0\refint\Lab2.3.dll
+D:\Учеба\2 семестр\КПЗ\Лаб 2\Lab2.3\Lab2.3\obj\Debug\net8.0\Lab2.3.pdb
+D:\Учеба\2 семестр\КПЗ\Лаб 2\Lab2.3\Lab2.3\obj\Debug\net8.0\Lab2.3.genruntimeconfig.cache
+D:\Учеба\2 семестр\КПЗ\Лаб 2\Lab2.3\Lab2.3\obj\Debug\net8.0\ref\Lab2.3.dll
